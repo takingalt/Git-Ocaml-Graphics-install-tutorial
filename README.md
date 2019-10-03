@@ -1,3 +1,5 @@
+(Si jamais il y a quelque chose que vous ne comprenez pas ou qui ne fonctionne pas demandez juste aux super H4CK3RS de notre promo)
+
 FRENCH Version:
 **INSTALLATION GIT**
  - Allez sur https://git-scm.com/downloads et téléchargez git pour votre OS.
@@ -15,7 +17,7 @@ FRENCH Version:
    
    ![](img/ssh-cri.gif)
       
-- Vous êtes maintenant en capacité de récuperer vos fichiers avec ```git clone```, ajouter et rendre vos TP depuis chez vous, ça fonctionne comme en salle machine à Epita.
+- Vous êtes maintenant en capacité de récuperer vos fichiers avec, ajouter et rendre vos TP depuis chez vous, ça fonctionne comme en salle machine à Epita.
 
 **INSTALLATION OCAML + GRAPHICS**
  - Rendez vous sur http://fdopen.github.io/opam-repository-mingw/installation/ et téléchargez OCaml
