@@ -5,4 +5,4 @@ FRENCH Version:
 ![](img/git-setup.gif)
    
 - Une fois l'installation fini allez sur votre bureau et lancez l'application, vous devriez avoir quelque chose comme ceci:
-![](img/bureau.png)
+![](img/desktop.png)
