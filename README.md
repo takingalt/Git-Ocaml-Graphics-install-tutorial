@@ -1,4 +1,5 @@
 FRENCH Version:
+**INSTALLATION GIT**
  - Allez sur https://git-scm.com/downloads et téléchargez git pour votre OS.
  - Lancer l'installation de git sans oublier de cocher la case "Additional Icon" + "On The Desktop" comme ci dessous:
     
@@ -14,5 +15,11 @@ FRENCH Version:
    
    ![](img/ssh-cri.gif)
       
-      
+- Vous êtes maintenant en capacité de récuperer vos fichiers avec ```git clone```, ajouter et rendre vos TP depuis chez vous, ça fonctionne comme en salle machine à Epita.
 
+**INSTALLATION OCAML + GRAPHICS**
+ - Rendez vous sur http://fdopen.github.io/opam-repository-mingw/installation/ et téléchargez OCaml
+ - Laissez faire l'installation, il installera aussi un autre logiciel appelé "Cygwin"
+ - Une fois l'installation faites, lancez Cygwin qui devrait être sur votre Bureau vous devriez avoir quelque chose qui ressemble à ça:
+    ![](img/cygwin.png)
+ - Lancez maintenant la commande opam install depext
