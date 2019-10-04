@@ -26,7 +26,7 @@ FRENCH Version:
     ![](img/cygwin.png)
   - Executez maintenant la commande ```opam install depext```
  - Executez la commande ```opam install depext-cygwinports```
- - Executez la commande ```opam switch ocaml-variants.4.08.0+min```
+ - Executez la commande ```opam switch ocaml-variants.4.08.0+mingw64c```
  - Executez la commande ```eval `opam config env```
  - Executez la commande ```opam init``` et répondez **yes** à tout
  - Executez la commande ```opam install graphics```
