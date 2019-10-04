@@ -24,4 +24,4 @@ FRENCH Version:
  - Laissez faire l'installation, il installera aussi un autre logiciel appelé "Cygwin"
  - Une fois l'installation faites, lancez Cygwin qui devrait être sur votre Bureau vous devriez avoir quelque chose qui ressemble à ça:
     ![](img/cygwin.png)
- - Lancez maintenant la commande opam install depext
+ - Executez maintenant la commande ```opam install depext```
