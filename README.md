@@ -28,7 +28,7 @@ FRENCH Version:
  - Executez la commande ```opam install depext-cygwinports```
  - Executez la commande ```opam switch ocaml-variants.4.08.0+min```
  - Executez la commande ```eval `opam config env```
- - Executez la commande ```opam init``` et répondez yes à tout
+ - Executez la commande ```opam init``` et répondez **yes** à tout
  - Executez la commande ```opam install graphics```
  - Executez la commande ```eval $(opam env)```
  - Executez la commande ```git config --global user.name "YOUR_NAME"``` En remplacant **"YOUR_NAME"** par votre nom et prénom
