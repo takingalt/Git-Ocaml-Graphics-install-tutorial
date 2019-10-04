@@ -17,6 +17,9 @@ FRENCH Version:
    
    ![](img/ssh-cri.gif)
       
+      
+ - Executez la commande ```git config --global user.name "YOUR_NAME"``` En remplacant **"YOUR_NAME"** par votre nom et prénom
+ - Executez la commande ```git config --global user.email "YOUR_MAIL"``` En remplacant **YOUR_MAIL** par votre mail
 - Vous êtes maintenant en capacité de récuperer vos fichiers avec, ajouter et rendre vos TP depuis chez vous, ça fonctionne comme en salle machine à Epita.
 
 **INSTALLATION OCAML + GRAPHICS**
@@ -31,6 +34,4 @@ FRENCH Version:
  - Executez la commande ```opam init``` et répondez **yes** à tout
  - Executez la commande ```opam install graphics```
  - Executez la commande ```eval $(opam env)```
- - Executez la commande ```git config --global user.name "YOUR_NAME"``` En remplacant **"YOUR_NAME"** par votre nom et prénom
- - Executez la commande ```git config --global user.email "YOUR_MAIL"``` En remplacant **YOUR_MAIL** par votre mail
  - Vous pouvez maintenant lancer "Ocaml64" et entrer la commande ```ocaml``` puis utiliser toutes les fonctions d'OCaml dont les graphiques :D
