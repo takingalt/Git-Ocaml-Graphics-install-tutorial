@@ -24,4 +24,11 @@ FRENCH Version:
  - Laissez faire l'installation, il installera aussi un autre logiciel appelé "Cygwin"
  - Une fois l'installation faites, lancez Cygwin qui devrait être sur votre Bureau vous devriez avoir quelque chose qui ressemble à ça:
     ![](img/cygwin.png)
- - Executez maintenant la commande ```opam install depext```
+  - Executez maintenant la commande ```opam install depext```
+ - Executez la commande ```opam install depext-cygwinports```
+ - Executez la commande ```opam switch ocaml-variants.4.08.0+min```
+ - Executez la commande ```eval `opam config env```
+ - Executez la commande ```opam init``` et répondez yes à tout
+ - Executez la commande ```opam install graphics```
+ - Executez la commande ```eval $(opam env)```
+ - Vous pouvez maintenant lancer "Ocaml64" et utiliser toutes les fonctions d'OCaml dont les graphiques :D
