@@ -1,6 +1,3 @@
-(Si jamais il y a quelque chose que vous ne comprenez pas ou qui ne fonctionne pas demandez juste aux super H4CK3RS de notre promo)
-
-FRENCH Version:
 **INSTALLATION GIT**
  - Allez sur https://git-scm.com/downloads et téléchargez git pour votre OS.
  - Lancez l'installation de git sans oublier de cocher la case "Additional Icon" + "On The Desktop" comme ci dessous:
